@@ -1,0 +1,503 @@
+[
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
+    "fileHash": "sha256-f5a00314b86f05ade323150f17aa691deaf463bf26c0d47c22fe7442e40930b4",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 81573,
+    "status": 3,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Movies",
+      "TvSeries",
+      "Documentary"
+    ],
+    "version": 6,
+    "internalName": "BilibiliProvider",
+    "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/BilibiliProvider.cs3",
+    "name": "BilibiliProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-660f125c70b87b13222f4d4031bd71ff20b02adfe05b3aea20b527667df87bfd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 67534,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 11,
+    "internalName": "CastleTvProvider",
+    "description": "Castle TV Movies and Series Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/CastleTvProvider.cs3",
+    "name": "CastleTvProvider"
+  },
+  {
+    "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
+    "fileHash": "sha256-1aecd439ddc22ad3a70ec2281d1e6cecb020b69ab0dcf1b61543257a81eeb1a7",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 40632,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 5,
+    "internalName": "CineTvProvider",
+    "description": "Clone of Cinema, Memesapp , FilmTV etc",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/CineTvProvider.cs3",
+    "name": "CineTvProvider"
+  },
+  {
+    "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
+    "fileHash": "sha256-254b14277ace4493d354ff6acc890324601bdd081854e1292755d665896743c8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 81894,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 32,
+    "internalName": "CricifyProvider",
+    "description": "Watch Live sports and TV channels",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/CricifyProvider.cs3",
+    "name": "CricifyProvider"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
+    "fileHash": "sha256-4548d88e5bf42f3e2be20e93d3db6308f5caf1f9895250bbbf74883eb9f4a22c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 31007,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "DesiSerialsProvider",
+    "description": "Desi Serials Tv Shows Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/DesiSerialsProvider.cs3",
+    "name": "DesiSerialsProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-1aef257fc04db0f27c6c7c634689b8f6f896814371fd014a5202a2742f2ab505",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 65313,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 6,
+    "internalName": "DoFlixProvider",
+    "description": "DoFlix Provider for Movies and TV Series",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/DoFlixProvider.cs3",
+    "name": "DoFlixProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-77e1840fe6f512318c53273e658891f39de17515b2fe59e58ad4228cc4f4991f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 21577,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 8,
+    "internalName": "EinthusanProvider",
+    "description": "Indian Multi-language HD Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/EinthusanProvider.cs3",
+    "name": "EinthusanProvider"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+    "fileHash": "sha256-f1afcdc84c72d622b8c1324fb612a6e438d8f7a998dc6c95b65b23de2f93a27b",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 18505,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "GoldenAudiobook",
+    "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/GoldenAudiobook.cs3",
+    "name": "GoldenAudiobook"
+  },
+  {
+    "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
+    "fileHash": "sha256-d93fd47dd2545baaae2347f1bf1e8589e74265b8c074cb6fbe795efb870ae0a8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 28526,
+    "status": 0,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movies",
+      "TvSeries"
+    ],
+    "version": 6,
+    "internalName": "HDOProvider",
+    "description": "HDO provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/HDOProvider.cs3",
+    "name": "HDOProvider"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
+    "fileHash": "sha256-6e6366fdf692bab02011f5cb6ffcd0e12c9c0756251ced2590050b5027e4a418",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 35613,
+    "status": 1,
+    "language": "ru",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "Anime",
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 5,
+    "internalName": "HDrezkaProvider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/HDrezkaProvider.cs3",
+    "name": "HDrezkaProvider"
+  },
+  {
+    "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+    "fileHash": "sha256-f02f813b62a5828d0ee864ba291135986736cc1c382c8daa370a9fd38af578e4",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 16511,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 3,
+    "internalName": "LibriVoxAudiobook",
+    "description": "Audiobooks in public domain",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/LibriVoxAudiobook.cs3",
+    "name": "LibriVoxAudiobook"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-5bbe68a0d6894673344b3140bf5229ca6bbaaad5f4cf7e6d1e20fc857749e02b",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 73177,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 14,
+    "internalName": "MovieBoxProvider",
+    "description": "Multi Language Movies and Series Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/MovieBoxProvider.cs3",
+    "name": "MovieBoxProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-8ea0198106bb8c93f380cb1426ee430ce25bbd5355826970733cf9f5085ea183",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 70898,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 16,
+    "internalName": "MovieBoxProviderIN",
+    "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/MovieBoxProviderIN.cs3",
+    "name": "MovieBoxProviderIN"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-29f5742a67c1b1a8b5757b658c697fe17825f8efdcb23f1bbaf6a58dcf14d0ff",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 20585,
+    "status": 1,
+    "language": "te",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 2,
+    "internalName": "MoviezwapProvider",
+    "description": "Telugu Movies Provider - Moviezwap",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/MoviezwapProvider.cs3",
+    "name": "MoviezwapProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-cb3acf8fdcedc82eb74298ed98b42d5768b7b703f72053c132ee540e2056f797",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 62471,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 3,
+    "internalName": "PikashowProvider",
+    "description": "Stream movies and series from Pikashow",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/PikashowProvider.cs3",
+    "name": "PikashowProvider"
+  },
+  {
+    "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
+    "fileHash": "sha256-2bf2ec1a52b7efaaee60dc04a76ea8da6e186e66e8bce3bab21d8ec431a075fe",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 17659,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 3,
+    "internalName": "RadioIndiaProvider",
+    "description": "Radio India Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/RadioIndiaProvider.cs3",
+    "name": "RadioIndiaProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-872f28b16551f4766176dd73405358abdf0828aad4745427aa713864cc505ebd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 19110,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie",
+      "AsianDrama"
+    ],
+    "version": 18,
+    "internalName": "Rtally",
+    "description": "Movie and TV Series provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/Rtally.cs3",
+    "name": "Rtally"
+  },
+  {
+    "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
+    "fileHash": "sha256-e7b01d99fa8fc2d66d729fe685aeed31538915df501c5e9772bdba5d4391d461",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 87054,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 12,
+    "internalName": "SKTechProvider",
+    "description": "Watch Live sports and TV channels via SK Tech",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/SKTechProvider.cs3",
+    "name": "SKTechProvider"
+  },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
+    "fileHash": "sha256-459f226318e6abefd786c652fcfceaf9219510f466235d77ba43a286b44e5c90",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 44689,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 5,
+    "internalName": "StreamFlixProvider",
+    "description": "StreamFlix Multi Language Movies and Series Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/StreamFlixProvider.cs3",
+    "name": "StreamFlixProvider"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-5c879ac2201cc30953bf7a457e5bfd12a55f07d4c70783e5b7135ed5413523ae",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 23354,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 7,
+    "internalName": "TamilDhoolProvider",
+    "description": "Tamil Tv Serial/Shows Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/TamilDhoolProvider.cs3",
+    "name": "TamilDhoolProvider"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
+    "fileHash": "sha256-06d71785f3dd696a73d2d6f457cf87f18b62eb3859513183acf1b22b04e93e5b",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 19707,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movies"
+    ],
+    "version": 2,
+    "internalName": "Tamilian",
+    "description": "Movies (Tamil)",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/Tamilian.cs3",
+    "name": "Tamilian"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-2fd24fde737b661accc8db1e6ee21cbf0655d4193e374f4bfecd9b559758a01f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 17143,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 10,
+    "internalName": "TamilUltraProvider",
+    "description": "Indian Live TV Provider",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/TamilUltraProvider.cs3",
+    "name": "TamilUltraProvider"
+  },
+  {
+    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+    "fileHash": "sha256-b48fb83cb121a0a9c86f8f8e809ea57d012e7275ec2da7a1f06165fbef4440a0",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 31369,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 5,
+    "internalName": "Watch32",
+    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/Watch32.cs3",
+    "name": "Watch32"
+  },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
+    "fileHash": "sha256-33f67ee4d94067b2371e0f78f13008db7f1d87ed7ded91117525e2cb70ae07a3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/amarsingh820/loveextenstion",
+    "fileSize": 43960,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "PopcornPlay"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 5,
+    "internalName": "XonProvider",
+    "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
+    "url": "https://raw.githubusercontent.com/amarsingh820/loveextenstion/main/XonProvider.cs3",
+    "name": "XonProvider"
+  }
+]
